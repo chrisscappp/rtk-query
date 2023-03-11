@@ -1,0 +1,65 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Коньяк и конфеты",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "fff",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Едем в вуз",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "title": "Говно хер",
+      "completed": false,
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "id": 1,
+      "name": "id labore ex et quam laborum",
+      "email": "Eliseo@gardner.biz",
+      "body": "mocha"
+    },
+    {
+      "postId": 1,
+      "id": 2,
+      "name": "quo vero reiciendis velit similique earum",
+      "email": "Jayne_Kuhic@sydney.com",
+      "body": "f,paob"
+    },
+    {
+      "postId": 1,
+      "name": "Boboa",
+      "email": "chrisscappp@mail.ru",
+      "body": "Log pidt",
+      "id": 4
+    },
+    {
+      "postId": 1,
+      "name": "Boboa",
+      "email": "chrisscappp@mail.ru",
+      "body": "loh pidr",
+      "id": 5
+    },
+    {
+      "postId": 1,
+      "name": "Boboa",
+      "email": "chrisscappp@mail.ru",
+      "body": "Loh pidr",
+      "id": 6
+    }
+  ]
+}
